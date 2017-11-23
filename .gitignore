@@ -37,6 +37,7 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 # IDE files
+bin/
 .settings
 .vscode
 .classpath
